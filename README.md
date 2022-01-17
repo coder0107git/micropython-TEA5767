@@ -155,3 +155,5 @@ radio_frequency(99.7)
 ```
 
 This code does not read anything back and don't use enable search mode, but turn on stereo mode, soft mute, stereo noise cancelling and high cut.
+
+I found this library through [this](https://www.hackster.io/alankrantas/retro-fm-radio-with-tea5767-and-wemos-d1-mini-38e24c) article.
